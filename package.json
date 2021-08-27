@@ -1,0 +1,25 @@
+{
+  "name": "rental-system",
+  "version": "1.0.0",
+  "description": "Simple Rental System Built on plain node JS as part of a challenge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nasfame/rental-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nasfame/rental-system/issues"
+  },
+  "homepage": "https://github.com/Nasfame/rental-system#readme"
+}
